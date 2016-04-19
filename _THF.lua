@@ -181,10 +181,7 @@ function init_gear_sets()
 	sets.precast.WS["Rudra's Storm"].SA = set_combine(sets.precast.WS["Rudra's Storm"],{
 	head="Pill. Bonnet +1",
 	body="Pillager's Vest +1",
-	hands="Pill. Armlets +1",
-	neck="Fotia Gorget",
-	waist="Fotia Belt"})
-	--SATA sets + 10% critical hit + 20% acc + 20% WS damage
+	hands="Pill. Armlets +1"})
 	sets.precast.WS["Rudra's Storm"].TA = sets.precast.WS["Rudra's Storm"].SA
 	sets.precast.WS["Rudra's Storm"].SATA = sets.precast.WS["Rudra's Storm"].SA
 	
